@@ -1,0 +1,14 @@
+D:\curso C#\poo\CuursoPOO\CuursoPOO\bin\Debug\net6.0\CuursoPOO.exe
+D:\curso C#\poo\CuursoPOO\CuursoPOO\bin\Debug\net6.0\CuursoPOO.deps.json
+D:\curso C#\poo\CuursoPOO\CuursoPOO\bin\Debug\net6.0\CuursoPOO.runtimeconfig.json
+D:\curso C#\poo\CuursoPOO\CuursoPOO\bin\Debug\net6.0\CuursoPOO.dll
+D:\curso C#\poo\CuursoPOO\CuursoPOO\bin\Debug\net6.0\CuursoPOO.pdb
+D:\curso C#\poo\CuursoPOO\CuursoPOO\obj\Debug\net6.0\CuursoPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso C#\poo\CuursoPOO\CuursoPOO\obj\Debug\net6.0\CuursoPOO.AssemblyInfoInputs.cache
+D:\curso C#\poo\CuursoPOO\CuursoPOO\obj\Debug\net6.0\CuursoPOO.AssemblyInfo.cs
+D:\curso C#\poo\CuursoPOO\CuursoPOO\obj\Debug\net6.0\CuursoPOO.csproj.CoreCompileInputs.cache
+D:\curso C#\poo\CuursoPOO\CuursoPOO\obj\Debug\net6.0\CuursoPOO.dll
+D:\curso C#\poo\CuursoPOO\CuursoPOO\obj\Debug\net6.0\refint\CuursoPOO.dll
+D:\curso C#\poo\CuursoPOO\CuursoPOO\obj\Debug\net6.0\CuursoPOO.pdb
+D:\curso C#\poo\CuursoPOO\CuursoPOO\obj\Debug\net6.0\CuursoPOO.genruntimeconfig.cache
+D:\curso C#\poo\CuursoPOO\CuursoPOO\obj\Debug\net6.0\ref\CuursoPOO.dll

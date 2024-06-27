@@ -9,3 +9,9 @@
 ##  classes e objetos 
 
 # classe - modelo do que vai se tornar o objeto exemplo  classe carro = objeto ferrari
+
+# Instancia = quannto cria umm objeto 
+
+# Composição = quando um objeto possui um outro objeto compondo ele 
+
+# !! importannnte = ver sobre Generics
